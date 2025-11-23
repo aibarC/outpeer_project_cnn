@@ -1,0 +1,17 @@
+# venv
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+data/
+
+# IDE
+.vscode/
+.idea/
